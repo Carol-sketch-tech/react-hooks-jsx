@@ -1,0 +1,11 @@
+ JSX allows us to write HTML-like code in our javascript files.
+ jsx is a syntax extension of javascript that cerates a very special
+  and wxtremely productive marriage between HTML js
+ 
+ Declarative and imparative programming.
+JSX uses what is called decalrative style of programming whereas creating DOM elements using javasnript methods
+would be imparative. 
+Imparative code describes how an action is to be done step by step 
+while declarative describe what the outcome should be.
+
+JSX is the return value of a fucntional component.
